@@ -10,7 +10,7 @@
 $(document).ready(function() {
 	$("li").first().css("background-color", "red");
 	$("li").last().css("background-color", "yellow");
-	
+		
 });
 
 </script>

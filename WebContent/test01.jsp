@@ -12,7 +12,7 @@ $(document).ready(function() {
 		
 
 	$("li:contains('2')").css("background-color","lavender");
-	$("li").eq(1).css("font-weight", "bold");
+	
 	
 });
 </script>
